@@ -1,5 +1,5 @@
 ---
-description: Use when someone asks to add a demo video to the demo hub, or to remove one. Handles the full flow in the Vercel sandbox: sync the repo, stage the video, register or unregister the demo, build to verify, and publish to the live site. Triggers on "@sola put this in the demo hub", "add this video", "remove that demo", etc.
+description: Use when someone asks to add a demo video to the demo hub, or to remove one. Handles the full flow in the Vercel sandbox which is sync the repo, stage the video, register or unregister the demo, build to verify, and publish to the live site. Triggers on "@sola put this in the demo hub", "add this video", "remove that demo", etc.
 ---
 
 # Demo hub: add and remove demos
