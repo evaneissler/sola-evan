@@ -1,5 +1,5 @@
 ---
-description: Use when someone pitches an idea for a demo or build guide in Slack, e.g. "@sola I have an idea: ...". Turns the pitch into a structured build-guide draft in Notion and replies with the link, so the team can refine it before it becomes a demo hub build guide.
+description: Use when someone pitches an idea for a demo or build guide in Slack, e.g. "@sola I have an idea ...". Turns the pitch into a structured build-guide draft in Notion and replies with the link, so the team can refine it before it becomes a demo hub build guide.
 ---
 
 # Draft an idea into a Notion build-guide doc

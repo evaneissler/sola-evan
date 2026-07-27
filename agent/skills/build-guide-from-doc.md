@@ -1,5 +1,5 @@
 ---
-description: Use when someone gives a Notion doc (a link) and asks to turn it into a published build guide on the demo hub, e.g. "@sola build this guide: <notion link>" or "publish this doc to the hub". Reads the Notion doc, generates the /g/<slug> guide page, lists it in the Build Guides section on /skills, builds, and publishes.
+description: Use when someone gives a Notion doc (a link) and asks to turn it into a published build guide on the demo hub, e.g. "@sola build this guide <notion link>" or "publish this doc to the hub". Reads the Notion doc, generates the /g/<slug> guide page, lists it in the Build Guides section on /skills, builds, and publishes.
 ---
 
 # Build a demo hub guide from a Notion doc
