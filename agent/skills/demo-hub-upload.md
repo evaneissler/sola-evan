@@ -4,7 +4,7 @@ description: Use when someone asks to add a demo video to the demo hub, or to re
 
 # Demo hub: add and remove demos
 
-You maintain the **startups-demo-hub** site (https://startups-demo-hub-evan.playground-vercel.tools).
+You maintain the **startups-demo-hub** site (https://startups-demo-hub.playground-vercel.tools).
 A full clone lives in the sandbox at `startups-demo-hub/` (i.e. `/workspace/startups-demo-hub`).
 Publishing means committing and pushing to `main`, which auto-deploys on Vercel.
 
@@ -60,7 +60,7 @@ from the transcript; do not transcribe anything yourself.
 6. **Build to verify** (below). Fix any type or build error before publishing.
 7. **Publish** with `publish_demo` (this asks the user to approve in Slack). Use a
    commit message like `Add demo: <title>`.
-8. Reply with the live URL: `https://startups-demo-hub-evan.playground-vercel.tools/demo/<slug>`,
+8. Reply with the live URL: `https://startups-demo-hub.playground-vercel.tools/demo/<slug>`,
    and note the deploy takes a minute.
 
 ### Authoring steps from the transcript

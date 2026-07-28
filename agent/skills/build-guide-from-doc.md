@@ -165,7 +165,7 @@ Add one line so it appears in the "Build guides" section on `/skills`:
 2. **Publish:** call `publish_demo` (asks for approval in Slack) with a message like
    `Add build guide: <title>`.
 3. **Reply** with the live URL:
-   `https://startups-demo-hub-evan.playground-vercel.tools/g/<slug>`, note the deploy
+   `https://startups-demo-hub.playground-vercel.tools/g/<slug>`, note the deploy
    takes a minute, and mention a video can be added later to also feature it on the hub.
 
 ## Notes and failure modes

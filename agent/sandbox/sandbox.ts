@@ -3,7 +3,7 @@ import { vercel } from "eve/sandbox/vercel";
 
 // The demo hub repo. Cloned once into the template, reused by every session.
 // Public repo, so cloning is anonymous; pushing needs GITHUB_TOKEN (see below).
-const REPO_URL = "https://github.com/evaneissler/startups-demo-hub.git";
+const REPO_URL = "https://github.com/williamarmstrong8/startups-demo-hub.git";
 const REPO_DIR = "startups-demo-hub";
 
 /**
@@ -17,7 +17,7 @@ const REPO_DIR = "startups-demo-hub";
  *
  * Push auth: even though the repo is public, `git push` needs write access.
  * Set GITHUB_TOKEN in the environment to a fine-grained PAT with
- * `contents: write` on evaneissler/startups-demo-hub (your fork).
+ * `contents: write` on williamarmstrong8/startups-demo-hub (your fork).
  */
 export default defineSandbox({
   backend: vercel({ resources: { vcpus: 4 } }),
